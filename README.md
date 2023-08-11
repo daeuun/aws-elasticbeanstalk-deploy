@@ -1,2 +1,2 @@
-# aws-elasticbeanstalk-deploy
-AWS ElasticBeanstalk Deploy
+# AWS Elastic Beanstalk Deploy With Docker
+AWS ElasticBeanstalk Deploy with docker-compose
